@@ -1,0 +1,3 @@
+com\mockifood\infra\chaos\ChaosServiceTest.class
+com\mockifood\ifood\model\JsonContractTest.class
+com\mockifood\ifood\service\IfoodMockServiceTest.class

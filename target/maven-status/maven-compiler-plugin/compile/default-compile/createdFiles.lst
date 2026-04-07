@@ -1,0 +1,15 @@
+com\mockifood\MockIfoodApplication.class
+com\mockifood\controller\HealthController.class
+com\mockifood\ifood\model\EarningsResponse.class
+com\mockifood\ifood\service\IfoodMockService.class
+com\mockifood\ifood\model\SummaryResponse.class
+com\mockifood\ifood\model\EarningsSummary.class
+com\mockifood\ifood\model\PerformanceResponse.class
+com\mockifood\ifood\service\IfoodMockProperties.class
+com\mockifood\controller\IfoodController.class
+com\mockifood\controller\ApiExceptionHandler.class
+com\mockifood\infra\chaos\ChaosService.class
+com\mockifood\ifood\service\PerfilIfood.class
+com\mockifood\ifood\service\IfoodMockProperties$Caos.class
+com\mockifood\ifood\service\IfoodMockService$1.class
+com\mockifood\ifood\model\EarningsDelivery.class
